@@ -1,4 +1,4 @@
-theme: minima
+theme: Architect
 
 # Matthew's First CS193 Homework
 
